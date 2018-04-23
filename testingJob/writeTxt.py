@@ -2,7 +2,7 @@
 # @Author: emily
 # @Date  : 2018/3/27 10:40
 # @Contact : emilyty@163.com
-# @Desc: 为了验证1W+会员数据的批量导入
+# @Desc: 为了验证1W+会员数据的批量导入，测试
 import time
 f = open('D:\BatchImport.txt', 'a')
 try:
