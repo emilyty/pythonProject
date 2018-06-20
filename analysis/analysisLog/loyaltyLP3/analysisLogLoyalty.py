@@ -29,7 +29,7 @@ def searchKeyWord (keywords):
     try:
         fobj = open(filename, 'r', encoding='UTF-8')
     except IOError as e:
-        log.WriteLog("打开文件异常")
+        log.WriteLog("打开文件异常"+e)
     else:
         for keyword in fobj:
             if word in keyword:
@@ -39,7 +39,6 @@ def searchKeyWord (keywords):
             pass
             #print(re.match('完成处理消息.' + word, keyword))
         else :
-            #log.WriteLog("打开文件异常")
             writeFile('[事件处理错误]【' + word+'】一共出现：'+str(count)+'次')
     finally:
         fobj.close()

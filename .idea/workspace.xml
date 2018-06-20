@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82e51534-05df-4816-8ba6-359b84f86e68" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/testingJob/writeTxt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rrr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testingJob/rrr.py">
+      <file leaf-file-name="analysisLogLoyalty.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding>
+                <element signature="e#258#281#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,10 +60,10 @@
         <option value="$PROJECT_DIR$/BatchCreateData/loyaltyLP3/import/BatchCreateUser.py" />
         <option value="$PROJECT_DIR$/testingJob/analysisLogLoyalty.py" />
         <option value="$PROJECT_DIR$/log/Log.py" />
-        <option value="$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py" />
         <option value="$PROJECT_DIR$/utilites/fileIO/file.py" />
         <option value="$PROJECT_DIR$/testingJob/rrr.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py" />
       </list>
     </option>
   </component>
@@ -92,6 +86,24 @@
             <path>
               <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisLog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisLog" type="462c0819:PsiDirectoryNode" />
+              <item name="loyaltyLP3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rrr">
+  <component name="RunManager" selected="Python.analysisLogLoyalty (1)">
     <configuration name="BatchCreateUser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,8 +234,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rrr" />
         <item itemvalue="Python.analysisLogLoyalty (1)" />
+        <item itemvalue="Python.rrr" />
         <item itemvalue="Python.file" />
         <item itemvalue="Python.BatchCreateUser" />
         <item itemvalue="Python.analysisLogLoyalty" />
@@ -245,14 +257,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16197917" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30319148" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30319148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -397,17 +408,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="e#258#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testingJob/log2018-06-20.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testingJob/rrr.py">
@@ -417,10 +421,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/log2018-06-20.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/analysisLog/loyaltyLP3/analysisLogLoyalty.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="e#258#281#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
